@@ -1,6 +1,4 @@
-## Aplicación de Comandos To Do List
-
-# Aplicación con Node de To Do List con "base de datos" en .json.
+## Aplicación de Comandos To Do List con base de datos .json
 
 Instalación de los paquetes:
 
